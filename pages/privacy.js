@@ -191,6 +191,14 @@ export default function Privacy() {
             <p>You may request deletion of your personal information by us, however, we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete personal information, it will be deleted from the active database, but may remain in our archives (subject to applicable law) and we may also retain anonymous information about your use of our services. Once we disclose some of your personal information to third parties, we may not be able to access that personal information any longer and cannot force the deletion or modification of any such information by the parties to whom we have made those disclosures. After we delete personal information, we may retain de-identified information and will continue to use de-identified information as permitted under this Privacy Policy.</p>
             <h2>Changes to Our Privacy Policy</h2>
             <p>We may change this Privacy Policy at any time. It is our policy to post any changes we make to our Privacy Policy on this page with a notice that the Privacy Policy has been updated on the Site’s home page. If we make material changes to how we treat our users’ Personal Data, we will notify you by email to the email address you have provided to us and/or through a notice on the Site’s home page. The date this Privacy Policy was last revised is identified at the bottom of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Site and reviewing this Privacy Policy to check for any changes.</p>
+            <h2>Contact Information</h2>
+            <p>You may contact us through the contact information below.</p>
+            <p>If you have any questions, concerns, complaints or suggestions regarding our Privacy Policy, would like to report a violation, or otherwise need to contact us, you may contact us at the contact information below or through the “Contact” page on our Site.</p>
+            <p>How to Contact Us:</p>
+            <p>Name: Motto Health Inc., attn: Compliance Team</p>
+            <p>Address: 85 5th Avenue Fl 8 New York, NY 10003</p>
+            <p>Telephone: 646-389-3451</p>
+            <p>Email: compliance@mottohealth.co</p>
         </div>
     )
 }
